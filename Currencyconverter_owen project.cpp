@@ -1,3 +1,7 @@
+/*This is a short basic showcase of basic C++ skills, with the creation of a Currency converter. This Currency converter converts any USD amount to either 
+CAD, EUR or NGN(Nigerian Currency).
+Author: Owen Imudia*/
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
